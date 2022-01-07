@@ -13,7 +13,7 @@ but you might need to enable the datapack using the `/datapack enable` command,
 using the `/datapack list` command, you can see if the datapack is Red or Green,
 if its green, then it should be working, if its red, just run `datapack enable "file/Ore-igin Pack"`
 
-the resource pack needs to be installed differently, due to how servers work
+the resource pack needs to be installed differently, due to how servers work,
 you can open your Server.properties text file and changes these settings
 ```
 require-resource-pack=true
