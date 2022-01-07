@@ -8,7 +8,7 @@ Put the Datapack into the datapacks folder in your minecraft save
 and then put the resource pack into your resource pack folder 
 or in your save folder (same folder as level.dat and stuff) and rename it to Resources.zip
 
-if you are trying to Ore-igins pack to work on a server, you can follow the same steps
+if you are trying to get the Ore-igins pack to work on a server, you can follow the same steps
 but you might need to enable the datapack using the `/datapack enable` command,
 using the `/datapack list` command, you can see if the datapack is Red or Green,
 if its green, then it should be working, if its red, just run `datapack enable "file/Ore-igin Pack"`
