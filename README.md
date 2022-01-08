@@ -4,7 +4,7 @@ this pack ports Origins Mod to Vanilla Minecraft, No Forge, No Fabric
 ## Installing
 
 ### Singleplayer
-download Oreigins_pack.zip
+download Ore-igins_pack.zip (not the Ore-igin_pack.zip, thats just the datapack)
 It includes the Datapack and Resource pack. Put the Datapack into the datapacks folder inside your minecraft world's folder, and then put the resource pack into your resource pack folder.
 
 ### Multiplayer
